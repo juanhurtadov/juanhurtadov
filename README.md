@@ -50,11 +50,6 @@ MLflow · Docker · FastAPI · Model Packaging · CI/CD Concepts · Monitoring &
 - Monitoring & retraining  
 - LLM · RAG · Agentic systems  
 
-### 🎯 Interview Preparation
-- Meta DS Interview (Jan 21): SQL · Product sense · Experimentation  
-- STAR Behavioral Stories  
-- Case studies & analytics frameworks  
-
 ---
 
 ## 📁 Selected Repositories
