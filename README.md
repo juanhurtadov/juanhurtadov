@@ -39,7 +39,7 @@ MLflow · Docker · FastAPI · Model Packaging · CI/CD Concepts · Monitoring &
 ## 📚 Current Learning Roadmap
 
 ### 🎓 Graduate Algorithms — CS6515 (Spring 2025)
-- Recurrences · Divide & Conquer · DP  
+- Recurrences · Divide & Conquer · Dynamic Programming  
 - Graph algorithms · Proof strategies  
 - Asymptotic analysis  
 
@@ -112,8 +112,8 @@ These showcase DE → ML → MLOps together — full lifecycle.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanhurtadov&show_icons=true&theme=default" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanhurtadov&layout=compact&theme=default" width="41%">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanhurtadov&show_icons=true&theme=transparent" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanhurtadov&layout=compact&theme=transparent" width="41%">
 </p>
 
 ---
