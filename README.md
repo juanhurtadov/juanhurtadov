@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan Hurtado 👋</h1>
+<h1 align="center">Hi, I'm Juan Hurtado </h1>
 
 <p align="center">
   <strong>Data Scientist → Machine Learning Engineer (in progress)</strong><br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Data Science Engineer with 6+ years of experience building time-series analytics pipelines, machine learning models, and data-driven applications across Energy and Industrial IoT.
 
@@ -23,7 +23,7 @@ This GitHub profile documents my ML Engineer + MLOps development journey (2024�
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### 🟦 Data Engineering
 Python · SQL · PySpark · ETL/ELT · Data Modeling · PostgreSQL · APIs · Workflow Automation  
@@ -36,7 +36,7 @@ MLflow · Docker · FastAPI · Model Packaging · CI/CD Concepts · Monitoring &
 
 ---
 
-## 📚 Current Learning Roadmap
+##  Current Learning Roadmap
 
 ### 🎓 Graduate Algorithms — CS6515 (Spring 2025)
 - Recurrences · Divide & Conquer · Dynamic Programming  
@@ -52,7 +52,7 @@ MLflow · Docker · FastAPI · Model Packaging · CI/CD Concepts · Monitoring &
 
 ---
 
-## 📁 Selected Repositories
+##  Selected Repositories
 
 ### 🟦 Data Engineering Projects
 - **Batch ETL Pipeline**  
@@ -90,7 +90,7 @@ MLflow · Docker · FastAPI · Model Packaging · CI/CD Concepts · Monitoring &
 
 ---
 
-### 🔥 End-to-End Machine Learning Systems
+###  End-to-End Machine Learning Systems
 These showcase DE → ML → MLOps together — full lifecycle.
 
 - **IoT Time-Series ML System**  
